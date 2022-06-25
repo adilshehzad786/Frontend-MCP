@@ -271,16 +271,16 @@ a {
 }
 
 /* * Supported Cloud */
-.language {
+.clouds {
   padding: 40px 0px;
 }
 
-.language h2{
+.clouds h2{
   padding-bottom: 40px;
   text-align: center;
 }
 
-.language .flex {
+.clouds .flex {
   flex-wrap: wrap;
   justify-content: center;
 }
